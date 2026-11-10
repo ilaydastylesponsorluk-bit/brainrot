@@ -33,6 +33,14 @@ public class BrainrotBlocks {
     static {
         registerBlock("smiley_block", MapColor.COLOR_YELLOW);
         registerBlock("wooden_face_block", MapColor.WOOD);
+        registerBlock("lvbel_c5_block", MapColor.COLOR_BROWN);
+        registerBlock("cakal_block", MapColor.COLOR_BROWN);
+        registerBlock("uzi_block", MapColor.COLOR_GRAY);
+        registerBlock("kisi_5_block", MapColor.COLOR_GRAY);
+        registerBlock("kisi_4_block", MapColor.COLOR_GRAY);
+        registerBlock("kisi_3_block", MapColor.COLOR_GRAY);
+        registerBlock("kisi_2_block", MapColor.COLOR_GRAY);
+        registerBlock("kisi_1_block", MapColor.COLOR_GRAY);
     }
 
     private static void registerBlock(String name, MapColor color) {

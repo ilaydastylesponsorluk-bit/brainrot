@@ -1,4 +1,12 @@
 {
   "block.brainrotblocks.smiley_block": "Smiley Blok",
-  "block.brainrotblocks.wooden_face_block": "Tahta Yüz Blok"
+  "block.brainrotblocks.wooden_face_block": "Tahta Yüz Blok",
+  "block.brainrotblocks.lvbel_c5_block": "Lvbel C5 Blok",
+  "block.brainrotblocks.cakal_block": "Çakal Blok",
+  "block.brainrotblocks.uzi_block": "Uzi Blok",
+  "block.brainrotblocks.kisi_1_block": "Kişi 1 Blok",
+  "block.brainrotblocks.kisi_2_block": "Kişi 2 Blok",
+  "block.brainrotblocks.kisi_3_block": "Kişi 3 Blok",
+  "block.brainrotblocks.kisi_4_block": "Kişi 4 Blok",
+  "block.brainrotblocks.kisi_5_block": "Kişi 5 Blok"
 }

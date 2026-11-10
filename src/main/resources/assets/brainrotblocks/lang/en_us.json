@@ -1,5 +1,13 @@
 {
   "block.brainrotblocks.smiley_block": "Smiley Block",
   "block.brainrotblocks.wooden_face_block": "Wooden Face Block",
-  "itemGroup.brainrotblocks.main": "Brainrot Blocks"
+  "itemGroup.brainrotblocks.main": "Brainrot Blocks",
+  "block.brainrotblocks.lvbel_c5_block": "Lvbel C5 Block",
+  "block.brainrotblocks.cakal_block": "Cakal Block",
+  "block.brainrotblocks.uzi_block": "Uzi Block",
+  "block.brainrotblocks.kisi_1_block": "Person 1 Block",
+  "block.brainrotblocks.kisi_2_block": "Person 2 Block",
+  "block.brainrotblocks.kisi_3_block": "Person 3 Block",
+  "block.brainrotblocks.kisi_4_block": "Person 4 Block",
+  "block.brainrotblocks.kisi_5_block": "Person 5 Block"
 }
